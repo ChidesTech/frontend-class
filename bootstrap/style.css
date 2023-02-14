@@ -1,0 +1,23 @@
+.navbar{
+    background-color: navy !important;
+}
+
+.navbar a{
+    color: white !important;
+}
+
+.dropdown-menu{
+    background-color: navy;
+}
+
+.dropdown-item:hover{
+ color: navy !important;
+}
+
+.navbar-toggler-icon{
+    background-color: white !important;
+}
+
+.carousel-item img{
+    height: 40rem;
+}

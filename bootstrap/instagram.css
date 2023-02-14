@@ -1,0 +1,22 @@
+.instagram{
+    display: flex;
+    justify-content: center;
+    padding-top: 5rem;
+}
+
+.left-side img{
+    width: 18rem;
+    height: 35rem;
+    margin-right: 2rem;
+}
+
+.form{
+    width: 22rem;
+    border: 1px solid rgb(228, 225, 225);
+    border-radius: .5rem;
+    padding: 2rem;
+}
+
+a{
+    text-decoration: none;
+}
