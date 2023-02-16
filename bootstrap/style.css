@@ -21,3 +21,15 @@
 .carousel-item img{
     height: 40rem;
 }
+
+.card{
+    margin-bottom: 1rem;
+}
+
+.card img{
+    height: 15rem;
+}
+.form{
+    max-width: 500px;
+    margin: auto;
+}
