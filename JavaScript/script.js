@@ -2,6 +2,8 @@
 // console.log('Hello World');
 // console.log(3 + 8);
 
+
+// ===== DAY 1  =====
 //Data Types => strings, numbers, booleans
 
 const nickname = "chidestech";  //constants
@@ -35,4 +37,37 @@ console.log(surname);
 console.log(surname +  " "  + firstname + " also known as " + nickname + " is " + age + " years old and he is " + status);
 
 //Template Strings
-console.log(`${surname} ${firstname} also known as ${nickname} is ${age} years old and he is ${single}`);
+console.log(`${surname} ${firstname} also known as ${nickname} is ${age} years old and he is ${status}`);
+
+
+// === DAY 2 ===
+
+
+//Conditional Statements 
+
+// IF STATEMENT
+if(2 + 2 === 5){
+    alert("Correct");
+}
+
+//IF ELSE STATEMENT
+if(3 * 4 === 90){
+    console.log("Correct");
+}else{
+   console.log("Wrong");
+}
+
+
+console.log("== if else if statement ===");
+
+if(2 + 3 === 45){
+    console.log("1st is correct");
+}else if(10 - 13 === 7){
+     console.log("2nd is correct");
+}else if(3 * 45 === 15){
+     console.log("3rd is correct");
+}else if(12 / 54 === 3){
+     console.log("4th is correct");
+}else{
+     console.log("None is correct");
+}
